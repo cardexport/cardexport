@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi everyone
+
+FULL DISCLOSURE: I used chat gpt to create this, it does what it says on the tin. If you have problems with the code tell Sam Altman.
+
+TO USE:
+1. Open MTG Arena
+2. Navigate to DECKS and click NEW deck
+3. RUN the program
 
 <!--
 **cardexport/cardexport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
